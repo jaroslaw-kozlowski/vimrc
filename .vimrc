@@ -488,7 +488,6 @@ Plug 'scrooloose/nerdtree'
 Plug 'kchmck/vim-coffee-script'
 Plug 'Valloric/YouCompleteMe'
 
-Plug 'marijnh/tern_for_vim'
 Plug 'wavded/vim-stylus'
 Plug 'scrooloose/syntastic'
 "Plug 'fholgado/minibufexpl.vim'
